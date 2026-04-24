@@ -42,8 +42,8 @@ Bash
 
 🎨 Interface Visual
 - O projeto utiliza um tema Dark Mode moderno, focado na redução da fadiga visual para o operador, com bordas coloridas dinâmicas:
-- 🔴 Borda Vermelha: Stock Crítico (≤ 14 unidades).
-- 🟡 Borda Amarela: Atenção (15 a 34 unidades).
-- 🟢 Borda Verde: Stock Adequado (≥ 35 unidades).
+🔴 Borda Vermelha: Stock Crítico (≤ 14 unidades).
+🟡 Borda Amarela: Atenção (15 a 34 unidades).
+🟢 Borda Verde: Stock Adequado (≥ 35 unidades).
 
 - Desenvolvido por Felipe Stevanato Ribeiro - Conecte-se comigo nesse número +55 11 97756-9063.
