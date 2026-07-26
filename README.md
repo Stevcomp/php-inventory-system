@@ -1,6 +1,6 @@
-# ConstruTech-stock-menager
+# ConstruTech - Sistema de gestão
 
-🔧 ConstruTech - Stock Manager
+🔧 ConstruTech - Sistema de gestão de estoque
 Sistema inteligente de gestão de inventário para materiais de construção.
 
 O ConstruTech é uma aplicação Full-Stack desenvolvida para simplificar o controlo de stock. O foco do projeto foi criar uma interface intuitiva que oferece feedback em tempo real sobre a saúde do inventário, utilizando uma lógica de "semáforo" para sinalizar a necessidade de reposição.
